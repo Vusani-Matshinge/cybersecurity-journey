@@ -26,9 +26,12 @@ development.
 - [ ] Introduction to Cybersecurity
 - [ ] Jr Penetration Tester
 
-### Professor Messer SY0-701
-- [ ] 1.1 Security Controls
-- [ ] 1.2 CIA Triad
+## Professor Messer Progress
+
+### Domain 1 — General Security Concepts
+- [x] How to Pass SY0-701
+- [x] 1.1 Security Controls
+- [x] 1.2 CIA Triad
 - [ ] 1.2 Non-repudiation
 - [ ] 1.2 Authentication Authorization and Accounting
 
